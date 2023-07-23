@@ -37,6 +37,7 @@ The `get_portfolio()` function is used to obtain the model's portfolio for the n
 ```
 3. Run the portfolio.py file by:
 ```
-    $ python portfolio.py```
+    $ python portfolio.py
+```
 
 
